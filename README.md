@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Aryan Umre
 
-<!--
-**Aryanumre/Aryanumre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😎 Pronouns: He/Him  
+- 🌱 Currently learning: **Web Development, MERN Stack, and C++ DSA** 
+- 🌿 Focused on: **DSA in C++ and real-world projects with MERN Stack**
+- 💻 Tech Stack: **MongoDB | Express | React | Node.js**   
+- 🎵 Music lover
+- 📫 Connect with me: Check links👇🏻😊
+  
+###🔗 Connect
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-umre-%F0%9F%87%AE%F0%9F%87%B3-89880525a/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryanumre65500@gmail.com@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+###⚙️ GitHub Stats
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryanumre&show_icons=true&theme=radical)
+
