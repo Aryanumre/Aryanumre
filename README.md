@@ -7,13 +7,13 @@
 - 🎵 Music lover
 - 📫 Connect with me: Check links👇🏻😊
   
-###🔗 Connect
+🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-umre-%F0%9F%87%AE%F0%9F%87%B3-89880525a/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryanumre65500@gmail.com@gmail.com)
 
 
 
-###⚙️ GitHub Stats
+
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryanumre&show_icons=true&theme=radical)
 
