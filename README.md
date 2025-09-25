@@ -3,13 +3,11 @@
 
 - 😎 Pronouns: He/Him  
 - 🌱 Currently learning: **Web Development, MERN Stack, and C++ DSA** 
-- 🌿 Focused on: **DSA in C++ and real-world projects with MERN Stack**
+- 🔭 Focused on: **DSA in C++ and real-world projects with MERN Stack**
 - 💻 Tech Stack: **MongoDB | Express | React | Node.js**   
-- 🎵 Music lover
-- 📫 Connect with me: Check links👇🏻😊
+- ⚡ Music Lover🎵❤️
+- 📫 Connect with me: Check links 👇🏻😊
   
-🔗 Connect
-
 <a href="https://www.linkedin.com/in/aryan-umre-%F0%9F%87%AE%F0%9F%87%B3-89880525a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsYiULotJRT6ZRgiCyHYVxw%3D%3D"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <a href="mailto:aryanumre65500@gmail.com"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
