@@ -1,5 +1,5 @@
-# Hi there ![hi](https://github.com/user-attachments/assets/96c6b8c3-c103-4d18-9d9e-b5845797003d)
-, I'm Aryan Umre
+## Hi there <img src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/hi.gif" width="30px">, I'm Aryan Umre
+
 
 - 😎 Pronouns: He/Him  
 - 🌱 Currently learning: **Web Development, MERN Stack, and C++ DSA** 
