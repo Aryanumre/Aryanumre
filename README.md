@@ -34,8 +34,6 @@
 </p>
 
 
-## Github Summary
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryanumre&show_icons=true&theme=radical)
 
 <br/>
 
@@ -50,5 +48,18 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
+
+
+
+---
+
+
+## 🌐 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/aryan-umre-%F0%9F%87%AE%F0%9F%87%B3-89880525a/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.instagram.com/itsaryanumre/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://x.com/aryan_umre?t=-sQr0ym83Pd0TtBHlFb0ig&s=09"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+</p>
 
 
