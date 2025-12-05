@@ -1,12 +1,12 @@
 ## Hi there <img src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/hi.gif" width="30px">, I'm Aryan Umre
 
 
-- 😎 Pronouns: He/Him  
-- 🌱 Currently learning: **Web Development, MERN Stack, and C++ DSA** 
-- 🔭 Focused on: **DSA in C++ and real-world projects with MERN Stack**
+- 😎 Pronouns: He/Him
+- 🔹 Passionate about building clean, modern and scalable web applications
+- 🌱 Currently learning: **MERN Stack, Advanced React, and DSA** 
+- 🔭 Focused on: **Real-world projects, dashboards, UI/UX and API development**
 - 💻 Tech Stack: **MongoDB | Express | React | Node.js**   
-- ⚡ Music Lover🎵❤️
-- 📫 Connect with me: Check links 👇🏻😊
+- 📫 Connect with me: **Check links** 👇🏻😊
   
 <a href="https://www.linkedin.com/in/aryan-umre-%F0%9F%87%AE%F0%9F%87%B3-89880525a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsYiULotJRT6ZRgiCyHYVxw%3D%3D"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
