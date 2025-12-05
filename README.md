@@ -3,15 +3,36 @@
 
 - 😎 Pronouns: He/Him
 - 🔹 Passionate about building clean, modern and scalable web applications
-- 🌱 Currently learning: **MERN Stack, Advanced React, and DSA** 
-- 🔭 Focused on: **Real-world projects, dashboards, UI/UX and API development**
-- 💻 Tech Stack: **MongoDB | Express | React | Node.js**   
+- 🌱 Currently learning: **Advanced React**, **API Development**, and **DSA**   
+- 💻 Tech Stack: **MongoDB | Express | React | Node.js**
+- 👯 Open to collaborate on **frontend projects, dashboards, and MERN stack apps**  
+- ⚡ Fun fact: **I love building clean UI & interactive dashboards** 
 - 📫 Connect with me: **Check links** 👇🏻😊
   
 <a href="https://www.linkedin.com/in/aryan-umre-%F0%9F%87%AE%F0%9F%87%B3-89880525a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsYiULotJRT6ZRgiCyHYVxw%3D%3D"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <a href="mailto:aryanumre65500@gmail.com"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br/>
+### **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### **Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### **Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 
 ## Github Summary
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryanumre&show_icons=true&theme=radical)
